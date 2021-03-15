@@ -16,7 +16,10 @@ INSERT DOI HERE
 
 
 # Sample results
-The Fourier beamforming technique provided here is equivalent to the time-domain cross-correlation image reconstruction process shown here:
+The Fourier beamforming technique provided here is equivalent to a time-domain cross-correlation process shown here:
+
 ![](TimeDomainXCorr.gif)
-Here we show results for conventional dynamic-receive beamforming, virtual source synthetic aperture, REFoCUS (https://github.com/nbottenus/REFoCUS), and the proposed Fourier beamforming technique ("full-waveform reconstruction" in the paper)
+
+Here are results for conventional dynamic-receive beamforming, virtual source synthetic aperture, REFoCUS (https://github.com/nbottenus/REFoCUS), and the proposed Fourier beamforming technique ("full-waveform reconstruction" in the paper): 
+
 ![](Reconstructions.png)
