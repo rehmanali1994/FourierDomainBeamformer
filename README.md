@@ -21,8 +21,6 @@ Each image reconstruction algorithm is implemented in both MATLAB and Python:
 3) REFoCUS ([AdjointBasedREFoCUS.m](AdjointBasedREFoCUS.m) and [AdjointBasedREFoCUS.py](AdjointBasedREFoCUS.py))
 4) Full-Waveform Reconstruction in Time Domain ([TimeDomFullWaveRecon.m](TimeDomFullWaveRecon.m) and [TimeDomFullWaveRecon.py](TimeDomFullWaveRecon.py)) and Frequency Domain ([FreqDomFullWaveRecon.m](FreqDomFullWaveRecon.m) and [FreqDomFullWaveRecon.py](FreqDomFullWaveRecon.py))
 
-The algorithm is broken into two steps. The first step is to create a stack of coherence factor images focused at various sound speeds (implemented in [MATLAB/CoherenceFactorImages.m](MATLAB/CoherenceFactorImages.m) and [Python/CoherenceFactorImages.py](Python/CoherenceFactorImages.py)). These coherence factor image stacks are saved in [SavedCoherenceFactorImages](SavedCoherenceFactorImages) as .mat files. The second step is to estimate the average and local sound speed as a function of depth from this stack of coherence images (implemented in [MATLAB/SoundSpeedEstimation.m](MATLAB/SoundSpeedEstimation.m) and [Python/CoherenceFactorImages.py](Python/SoundSpeedEstimation.py))
-
 Please see any supporting [MultistaticDatasets](MultistaticDatasets)
 
 **Please download the sample data (.mat files) under the [releases](https://github.com/rehmanali1994/FourierDomainBeamformer/releases) tab for this repository, and place that data in the main directory.**
