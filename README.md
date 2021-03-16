@@ -12,7 +12,7 @@ for the reconstruction ultrasound images based on conventional dynamic-receive b
 If you use the code/algorithm for research, please cite the above paper. 
 
 You can reference a static version of this code by its DOI number:
-INSERT DOI HERE
+[![DOI](https://zenodo.org/badge/346254482.svg)](https://zenodo.org/badge/latestdoi/346254482)
 
 # Code and Sample Datasets
 Each image reconstruction algorithm is implemented in both MATLAB and Python:
