@@ -23,7 +23,7 @@ Each image reconstruction algorithm is implemented in both MATLAB and Python:
 
 Please see any supporting functions in [beamforming_functions](beamforming_functions).
 
-**Please download the sample data (.mat files) under the [releases](https://github.com/rehmanali1994/FourierDomainBeamformer/releases) tab for this repository, and place that data in the main directory.**
+**Please download the sample data (FocTxDataset.mat) under the [releases](https://github.com/rehmanali1994/FourierDomainBeamformer/releases) tab for this repository, and place that data in the main directory.**
 
 # Sample results
 The Fourier beamforming technique provided here is equivalent to a time-domain cross-correlation process shown here:
