@@ -21,7 +21,7 @@ Each image reconstruction algorithm is implemented in both MATLAB and Python:
 3) REFoCUS ([AdjointBasedREFoCUS.m](AdjointBasedREFoCUS.m) and [AdjointBasedREFoCUS.py](AdjointBasedREFoCUS.py))
 4) Full-Waveform Reconstruction in Time Domain ([TimeDomFullWaveRecon.m](TimeDomFullWaveRecon.m) and [TimeDomFullWaveRecon.py](TimeDomFullWaveRecon.py)) and Frequency Domain ([FreqDomFullWaveRecon.m](FreqDomFullWaveRecon.m) and [FreqDomFullWaveRecon.py](FreqDomFullWaveRecon.py))
 
-Please see any supporting [MultistaticDatasets](MultistaticDatasets)
+Please see any supporting functions in [beamforming_functions](beamforming_functions).
 
 **Please download the sample data (.mat files) under the [releases](https://github.com/rehmanali1994/FourierDomainBeamformer/releases) tab for this repository, and place that data in the main directory.**
 
