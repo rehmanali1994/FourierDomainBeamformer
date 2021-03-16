@@ -26,7 +26,7 @@ Please see any supporting functions in [beamforming_functions](beamforming_funct
 **Please download the sample data (FocTxDataset.mat) under the [releases](https://github.com/rehmanali1994/FourierDomainBeamformer/releases) tab for this repository, and place that data in the main directory ([FourierDomainBeamformer](https://github.com/rehmanali1994/FourierDomainBeamformer)).**
 
 # Sample results
-The Fourier beamforming technique provided here is equivalent to a time-domain cross-correlation process shown here:
+The Fourier beamforming technique provided is equivalent to the time-domain cross-correlation process shown here:
 
 ![](TimeDomainXCorr.gif)
 
