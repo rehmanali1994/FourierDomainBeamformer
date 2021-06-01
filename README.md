@@ -5,7 +5,7 @@ Fourier beamforming is generally used to form medical ultrasound images using sp
 
 We provide sample data and algorithms presented in
 
-> Ali, R. "Fourier-Based Synthetic-Aperture Imaging forArbitrary Transmissions by Cross-Correlation ofTransmitted and Received Wave-Fields". *Accepted for publication at Ultrasonic Imaging.*
+> Ali, R. "Fourier-Based Synthetic-Aperture Imaging for Arbitrary Transmissions by Cross-Correlation of Transmitted and Received Wave-Fields". *Accepted for publication at Ultrasonic Imaging.*
 
 for the reconstruction ultrasound images based on conventional dynamic-receive beamforming, virtual source synthetic aperture, REFoCUS (https://github.com/nbottenus/REFoCUS), and the proposed Fourier beamforming technique (called "full-waveform reconstruction" in the paper)
 
