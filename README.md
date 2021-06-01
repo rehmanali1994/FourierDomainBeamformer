@@ -7,7 +7,7 @@ We provide sample data and algorithms presented in
 
 > Ali, R. "Fourier-Based Synthetic-Aperture Imaging for Arbitrary Transmissions by Cross-Correlation of Transmitted and Received Wave-Fields". *Accepted for publication at Ultrasonic Imaging.*
 
-for the reconstruction ultrasound images based on conventional dynamic-receive beamforming, virtual source synthetic aperture, REFoCUS (https://github.com/nbottenus/REFoCUS), and the proposed Fourier beamforming technique (called "full-waveform reconstruction" in the paper)
+for the reconstruction ultrasound images based on conventional dynamic-receive beamforming, virtual source synthetic aperture, REFoCUS (https://github.com/nbottenus/REFoCUS), and the proposed Fourier beamforming technique (called "full-waveform reconstruction" here, but "shot-profile migration" in the paper)
 
 If you use the code/algorithm for research, please cite the above paper. 
 
