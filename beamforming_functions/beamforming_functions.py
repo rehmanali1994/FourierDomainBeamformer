@@ -225,7 +225,7 @@ def bfm_fs(t, signal, foc_pts, rxAptPos, rxApod = None, txAptPos = None, txApod 
                        - matrix of ones by default
     txAptPos           - M x 3 matrix with positions of the Tx apertures (elements) [m]
                        - txAptPos = rxAptPos by default
-    rxApod             - P x N matrix of receive apodizations for each Rx element and focal point
+    txApod             - P x M matrix of transmit apodizations for each Tx element and focal point
 
     dc_rx, dc_tx       - time offsets [s] for Tx and Rx; scalars, N (M) x 1 vectors, or P x N (M) matrix
     speed_of_sound     - speed of sounds [m/s]; default 1540 m/s
