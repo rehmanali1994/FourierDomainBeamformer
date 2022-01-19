@@ -209,7 +209,7 @@ def focus_retroTx(t, signal, foc_pts, rxAptPos, tx_center, tx_dir, tx_focDepth, 
 
 
 def bfm_fs(t, signal, foc_pts, rxAptPos, rxApod = None, txAptPos = None, txApod = None, dc_rx = 0, dc_tx = 0, speed_of_sound = 1540):
-    '''bfm_data = bfm_fs(t, signal, foc_pts, rxAptPos, txAptPos = None, dc_rx = 0, dc_tx = 0, speed_of_sound = 1540)
+    '''bfm_data = bfm_fs(t, signal, foc_pts, rxAptPos, rxApod = None, txAptPos = None, txApod = None, dc_rx = 0, dc_tx = 0, speed_of_sound = 1540)
 
     BFM_FS - Beamforms (Delay and Sum) the RF data at desired locations
 
