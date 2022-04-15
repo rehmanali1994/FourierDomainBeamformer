@@ -30,6 +30,6 @@ The Fourier beamforming technique provided is equivalent to the time-domain cros
 
 ![](TimeDomainXCorr.gif)
 
-Here are results for conventional dynamic-receive beamforming, virtual source synthetic aperture, REFoCUS, and the proposed Fourier beamforming technique ("full-waveform reconstruction" in the paper): 
+Here are results for conventional dynamic-receive beamforming, virtual source synthetic aperture, REFoCUS, and the proposed Fourier beamforming technique ("full-waveform reconstruction" here but "shot-profile migration" in the paper): 
 
 ![](Reconstructions.png)
